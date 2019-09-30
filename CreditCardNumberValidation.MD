@@ -10,3 +10,4 @@ Diners Club : 14 digits, starting with 300 through 305, 36, or 38.
 JCB : 15 digits, starting with 2131 or 1800, or 16 digits starting with 35. 
 
 
+![Screenshot](DuplicateWords.png)
